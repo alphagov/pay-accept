@@ -1,0 +1,17 @@
+{
+  "name": "pay-accept",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "otplib": "^12.0.0"
+  },
+  "dependencies": {
+    "base32-encode": "^1.1.1"
+  }
+}
